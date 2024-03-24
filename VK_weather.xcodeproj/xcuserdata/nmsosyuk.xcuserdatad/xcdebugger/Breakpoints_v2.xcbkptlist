@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4214CB9E-9665-45C6-B885-FFAB0E681B26"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8684DFBC-A782-4435-BBF9-FBCA10D5EB0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getCity(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8684DFBC-A782-4435-BBF9-FBCA10D5EB0A - 5246eee82595d69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1512">
+               </Location>
+               <Location
+                  uuid = "8684DFBC-A782-4435-BBF9-FBCA10D5EB0A - 5246eee82595d69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90E3C97F-5A86-481F-B7CF-99F694939D22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/FindPageWeather/Presenter/FindPageWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "textChanged(cityName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90E3C97F-5A86-481F-B7CF-99F694939D22 - e5bb3520125fe089"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; () in VK_weather.FindPageWeatherPresenter.textChanged(cityName: Swift.String) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Presenter/FindPageWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "90E3C97F-5A86-481F-B7CF-99F694939D22 - e5bb3520125fe0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; () in VK_weather.FindPageWeatherPresenter.textChanged(cityName: Swift.String) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Presenter/FindPageWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "90E3C97F-5A86-481F-B7CF-99F694939D22 - e5bb3520125fe04b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; () in VK_weather.FindPageWeatherPresenter.textChanged(cityName: Swift.String) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Presenter/FindPageWeatherPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "584">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D05FB45-6E7C-409C-B47A-22E9EC4CDE5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getCity(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D05FB45-6E7C-409C-B47A-22E9EC4CDE5E - 5246eee8259531c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "3D05FB45-6E7C-409C-B47A-22E9EC4CDE5E - 5246eee8259531c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B365AC8-637C-4D61-B84E-0444FBF5FDFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getCity(city:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B365AC8-637C-4D61-B84E-0444FBF5FDFE - 5246eee82595204"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+               <Location
+                  uuid = "4B365AC8-637C-4D61-B84E-0444FBF5FDFE - 5246eee82595223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_weather.FinPageServiceImpl.getCity(city: Swift.String, completion: (Swift.Result&lt;Swift.Array&lt;VK_weather.CityResponseElement&gt;, VK_weather.ApiErrorForCity&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "VK_weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nmsosyuk/Downloads/Safari/VKWeather-main/VK_weather/Modules/FindPageWeather/Service/FindPageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53344ED4-85FE-4241-B549-F8B1C820B694"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/MainPageWeather/Presenter/MainPageWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getCoordinatesForForeCastCollection(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBB1B8DA-4F75-487D-8F77-8C2A31671142"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK_weather/Modules/MainPageWeather/Presenter/MainPageWeatherPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getCoordinatesForForeCastCollection(lat:lon:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
