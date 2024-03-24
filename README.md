@@ -1,4 +1,5 @@
 # Тестовое задание VK 
+Тестовое задание для стажировки в VK.
 # Основной стек 
 - UIKit, MVP+Router, CoreData, URLSession, CoreLocation
 # Навигация 
